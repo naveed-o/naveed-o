@@ -1,14 +1,15 @@
 # Hi!!, I'm Naveed 👋
 
 ---
-## 🧑‍💻 About me
+# 🧑‍💻 About me
 - I'm aiming to be a game developer and a cybersecurity specialist.
 - Currently taking my bachelors in Computer Science specializing Cybersecurity.
 - Comfortable with basic coding.
+- Currently learning networking fundamentals and Python.
 - Hope to meet new people and connect for coding and gaming projects.
 
 
-## 🌐 Socials:
+# 🌐 My LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveed-abdul-gafoor) 
 
 # 💻 My Skills:
