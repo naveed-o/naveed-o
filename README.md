@@ -1,7 +1,7 @@
-<h1># Hi!!, I'm Naveed 👋</h1>h1>
+# Hi!!, I'm Naveed 👋
 
 ---
-## About me
+## 🧑‍💻 About me
 - I'm aiming to be a game developer and a cybersecurity specialist.
 - Currently taking my bachelors in Computer Science specializing Cybersecurity.
 - Comfortable with basic coding.
