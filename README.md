@@ -1,4 +1,4 @@
-# Hi, I'm Naveed Abdul Gafoor
+# Hi!!, I'm Naveed Abdul Gafoor
 
 I'm aiming to be a game developer and a cybersecurity specialist
 
