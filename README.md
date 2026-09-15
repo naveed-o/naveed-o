@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hii, I'm Naveed Abdul Gafoor, I'm aiming to be a game developer.
+# 💫 About Me: Hii, I'm Naveed Abdul Gafoor
+I'm aiming to be a game developer and a cybersecurity specialist
 
 
 ## 🌐 Socials:
