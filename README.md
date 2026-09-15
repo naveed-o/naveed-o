@@ -1,6 +1,9 @@
 # Hi!!, I'm Naveed
 
-I'm aiming to be a game developer and a cybersecurity specialist
+I'm aiming to be a game developer and a cybersecurity specialist.
+Currently taking my bachelors in Computer Science specializing Cybersecurity.
+Comfortable with basic coding.
+Open to meet new people and connect for coding and gaming projects.
 
 
 ## 🌐 Socials:
