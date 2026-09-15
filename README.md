@@ -28,4 +28,4 @@ Game Dev
 
 ---
 
-# 🌐 My LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveed-abdul-gafoor) 
+# 🌐 My LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed-abdul-gafoor-638403429/) 
